@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FajarAdiSetyawan
 - 👀 I’m interested in Mobile Developer
-- 🌱 I’m currently learning Dart 
+- 🌱 I’m currently learning Flutter
 
 
 <!---
